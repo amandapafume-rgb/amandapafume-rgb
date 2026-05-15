@@ -4,7 +4,7 @@
 
 Me chamo Amanda Pafume, tenho 28 anos e sou formada em Biomedicina. Atualmente curso Análise e Desenvolvimento de Sistemas. Meu interesse pela tecnologia começou antes mesmo da faculdade, através de cursos que despertaram minha curiosidade e vontade de migrar para a área. Tenho interesse em frontend, dados, inteligência artificial e backend, e busco constantemente evoluir meus conhecimentos por meio de estudos e projetos práticos. 
 
-<img align="left" height="200" src="https://i.imgur.com/PKf7p3N.png" />
+<img align="left" height="150" src="https://i.imgur.com/PKf7p3N.png" />
 
 ---
 
